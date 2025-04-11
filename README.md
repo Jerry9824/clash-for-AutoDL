@@ -90,10 +90,11 @@ cd clash-for-AutoDL
 ![4.png](https://s2.loli.net/2024/06/20/9yz4WwdoqrsCQt2.png)
 
 由于现在AutoDL平台上的所有镜像都没有lsof，该工具是脚本中检测端口是否被占用的，所以需要安装一下。
-
+另外建议安装gettext，以免出现bash: proxy_on: command not found的问题
 ```bash
 apt-get update
 apt-get install lsof
+sudo apt-get install gettext   
 ```
 
 ![5.png](https://s2.loli.net/2024/06/20/otEXxVMDOrez62Q.png)
