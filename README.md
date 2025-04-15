@@ -172,7 +172,9 @@ shutdown_system
 然后检查程序端口、进程以及环境变量`http_proxy|https_proxy`，若都没则说明服务正常关闭。
 
 <br>
+
 ## 节点切换（不使用图形化界面）
+
 - 添加执行权限后运行
 
 ```bash
