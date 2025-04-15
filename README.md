@@ -50,13 +50,13 @@
 下载项目
 
 ```bash
-git clone https://github.com/VocabVictor/clash-for-AutoDL.git
+git clone https://github.com/Jerry9824/clash-for-AutoDL.git
 ```
 
 或者尝试kgithub(GitHub镜像站)下载
 
 ```bash
-git clone https://kkgithub.com/VocabVictor/clash-for-AutoDL.git
+git clone https://kkgithub.com/Jerry9824/clash-for-AutoDL.git
 ```
 
 ![1.png](https://s2.loli.net/2024/06/20/8e4VzyTYZSGhPsC.png)
