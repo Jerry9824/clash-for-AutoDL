@@ -173,7 +173,7 @@ shutdown_system
 
 <br>
 
-## 节点切换（不使用图形化界面）
+## 节点切换（不使用图形化界面,可不使用Clash Dashboard）
 
 - 添加执行权限后运行
 
