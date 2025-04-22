@@ -175,6 +175,10 @@ shutdown_system
 
 ## 节点切换（不使用图形化界面,可不使用Clash Dashboard）
 
+```bash
+sudo apt-get install -y jq
+```
+
 - 添加执行权限后运行
 
 ```bash
